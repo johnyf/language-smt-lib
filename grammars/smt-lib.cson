@@ -1,6 +1,7 @@
 'comment': ''
 'fileTypes': [
   'smt2'
+  'smt'
 ]
 'name': 'SMT-LIB'
 'patterns': [
