@@ -52,7 +52,7 @@
     'name': 'keyword.control.smtlib'
   }
   {
-    'match': '\\b(not|and|forall|exists)\\b'
+    'match': '\\b(not|and|or|forall|exists)\\b'
     'name': 'keyword.operator.smtlib'
   }
   {
